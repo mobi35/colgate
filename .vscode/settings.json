@@ -10,7 +10,6 @@
     "captain-definition": true,
     "vite.config.js": true,
     "backend/vendor": true,
-    "*/public": true,
     "package.json": false,
     "composer.json": false,
     "ts*.json": true,
